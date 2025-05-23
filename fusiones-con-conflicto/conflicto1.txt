@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Cambio hecho en master
 cambio cambio
+=======
+Cambio hecho desde la ramaconflicto1
+>>>>>>> ramaconflicto1
