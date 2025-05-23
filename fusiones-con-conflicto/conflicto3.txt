@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 cambiado desde master en en conflicto3
-=======
-esto esta editado en ramaconflicto3
->>>>>>> ramaconflicto3
+
+esta editado en ramaconflicto3
