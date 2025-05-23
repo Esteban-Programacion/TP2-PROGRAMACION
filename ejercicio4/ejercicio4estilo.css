@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+h1, p, h2{
+    margin: 10px 0;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
