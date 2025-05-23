@@ -1,0 +1,12 @@
+#mensaje.ok {
+    color: green;
+    font-weight: bold;
+}
+
+#mensaje.error {
+    color: red;
+    font-weight: bold;
+}
+body{
+    background-color: darkgrey;
+}
